@@ -1,6 +1,6 @@
 # Car-Image-Carousel
 
-https://github.com/MaduSales/Car-Image-Carousel/assets/166547195/ae889c31-7cd3-4300-ac47-0e6ac90a1afc
+
 
 
 Projeto com HTML, CSS e JavaScript de um carrossel com imagens de um lamborghinis aventador
